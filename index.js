@@ -48,7 +48,7 @@ const start = (client = new Client()) => {
 }
 
 const options = {
-    sessionId: 'Imperial',
+    sessionId: 'KUSH',
     headless: true,
     qrTimeout: 0,
     authTimeout: 0,
